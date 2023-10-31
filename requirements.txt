@@ -1,0 +1,6 @@
+opcua
+cryptography
+python-dateutil
+lxml
+pytz
+loguru
